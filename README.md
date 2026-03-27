@@ -1,6 +1,5 @@
 # PHP Web Application
-
-## Ahmad and Co.
+**Ahmad and Co.**
 
 # About
 

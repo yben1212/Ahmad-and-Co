@@ -4,8 +4,7 @@
 
 # About
 
-This repository contains a lightweight dynamic web application developed using PHP and MariaDB/MySQL. It provides a simple and
-extensible foundation for managing employee data through a browser based interface.
+This repository contains a lightweight dynamic web application developed using PHP and MariaDB/MySQL. It provides a simple foundation for managing employee data through a browser based interface.
 
 ## Features
 

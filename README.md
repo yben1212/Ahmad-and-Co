@@ -34,5 +34,9 @@ This repository contains a lightweight dynamic web application developed using P
 4. Ensure the appropriate MySQL users have been created
 5. Start your web server and find the application in your browser using http
 
+## Work Flow
+
+The development team built and modified the application on a local virtual machine, then packaged it into a .tar.gz file for deployment. The system administrator used a separate bridged virtual machine to work as the test environment, giving it its own IP address on the network. The developer submitted a deployment request to the system administrator, who deployed the application and configured the database and user permissions. Developer accounts were purposefully restricted from sudo privileges. This workflow showcases the separation of roles between developers and system administrators and the process of moving code from a development environment into a test environment.
+
 
 **Ahmad and Co.**
